@@ -1,0 +1,13 @@
+<templateSet group="JavaScript">
+  <template name="conl" value="console.log('[$fileNameWithoutExtension$]&gt;&gt;$jsMethodName$&gt;&gt;$clipboard$:', $clipboard$)" description="控制台输出" toReformat="false" toShortenFQNames="true">
+    <variable name="fileNameWithoutExtension" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="jsMethodName" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="clipboard" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
