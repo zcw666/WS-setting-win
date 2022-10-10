@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="session Storage" />
       <item value="counter" />
       <item value="预览" />
       <item value="终止" />
@@ -30,11 +31,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663726799121" />
+    <option name="lastTrimTime" value="1665401322744" />
   </component>
 </application>
