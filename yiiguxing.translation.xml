@@ -1,0 +1,40 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="495" />
+    <option name="newTranslationDialogY" value="277" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="counter" />
+      <item value="预览" />
+      <item value="终止" />
+      <item value="终止合同" />
+      <item value="签名" />
+      <item value="认证" />
+      <item value="attest" />
+      <item value="complete" />
+      <item value="完整" />
+      <item value="身份证" />
+      <item value="编辑" />
+      <item value="自动" />
+      <item value="final Result For View" />
+      <item value="当前业务" />
+      <item value="操作" />
+      <item value="HEAD" />
+      <item value="Condition" />
+      <item value="接口" />
+      <item value="reject" />
+      <item value="重置" />
+      <item value="dependencies" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="20" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1663726799121" />
+  </component>
+</application>
