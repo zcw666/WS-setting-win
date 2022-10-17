@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="decode" />
+      <item value="译" />
       <item value="内容层" />
       <item value="规整层" />
       <item value="机翻结果" />
@@ -42,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
