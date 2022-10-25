@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="编辑" />
       <item value="序号" />
       <item value="分段导航" />
       <item value="导航" />
@@ -39,7 +40,6 @@
       <item value="complete" />
       <item value="完整" />
       <item value="身份证" />
-      <item value="编辑" />
       <item value="自动" />
       <item value="final Result For View" />
       <item value="当前业务" />
@@ -53,8 +53,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
