@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="多模态转译" />
       <item value="翻译" />
       <item value="机翻" />
       <item value="编辑" />
