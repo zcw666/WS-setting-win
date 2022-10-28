@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="对比" />
       <item value="机器" />
       <item value="翻译" />
       <item value="当前" />
@@ -54,7 +55,6 @@
       <item value="HEAD" />
       <item value="Condition" />
       <item value="接口" />
-      <item value="reject" />
     </histories>
     <option name="languageScores">
       <map>
