@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="参考层" />
+      <item value="刷新" />
+      <item value="合并" />
       <item value="匹配元素" />
       <item value="备注" />
       <item value="变调" />
@@ -52,14 +55,11 @@
       <item value="终止" />
       <item value="终止合同" />
       <item value="签名" />
-      <item value="认证" />
-      <item value="attest" />
-      <item value="complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="67" />
       </map>
     </option>
   </component>
