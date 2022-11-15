@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="备注" />
       <item value="变调" />
       <item value="域账号" />
       <item value="账号" />
@@ -54,16 +55,15 @@
       <item value="attest" />
       <item value="complete" />
       <item value="完整" />
-      <item value="身份证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667993237339" />
+    <option name="lastTrimTime" value="1668476184090" />
   </component>
 </application>
