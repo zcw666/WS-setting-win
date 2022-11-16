@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="match" />
       <item value="dictionary" />
       <item value="当前" />
       <item value="参考层" />
@@ -54,12 +55,11 @@
       <item value="counter" />
       <item value="预览" />
       <item value="终止" />
-      <item value="终止合同" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
