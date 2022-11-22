@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="收藏" />
       <item value="primary" />
       <item value="theme" />
       <item value="coordinates" />
@@ -54,7 +55,6 @@
       <item value="Speech" />
       <item value="机器翻译" />
       <item value="analysis" />
-      <item value="session Storage" />
     </histories>
     <option name="languageScores">
       <map>
