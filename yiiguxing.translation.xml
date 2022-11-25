@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="refresh" />
       <item value="中文字符" />
       <item value="标签" />
       <item value="进度" />
@@ -54,12 +55,11 @@
       <item value="decode" />
       <item value="译" />
       <item value="内容层" />
-      <item value="规整层" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="ENGLISH" value="83" />
       </map>
     </option>
   </component>
