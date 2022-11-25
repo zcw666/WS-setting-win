@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="中文字符" />
       <item value="标签" />
       <item value="进度" />
       <item value="倍速" />
@@ -54,7 +55,6 @@
       <item value="译" />
       <item value="内容层" />
       <item value="规整层" />
-      <item value="机翻结果" />
     </histories>
     <option name="languageScores">
       <map>
