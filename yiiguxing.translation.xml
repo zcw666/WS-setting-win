@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="选中" />
       <item value="字数" />
       <item value="收藏时间" />
       <item value="描述" />
@@ -54,7 +55,6 @@
       <item value="多模态转译" />
       <item value="机翻" />
       <item value="编辑" />
-      <item value="序号" />
     </histories>
     <option name="languageScores">
       <map>
