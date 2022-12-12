@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="拒收" />
+      <item value="退回" />
+      <item value="打回" />
+      <item value="正确率" />
       <item value="Contrast" />
       <item value="选中" />
       <item value="字数" />
@@ -51,19 +55,15 @@
       <item value="机器" />
       <item value="翻译" />
       <item value="数据对比" />
-      <item value="对比数据" />
-      <item value="语言" />
-      <item value="多模态转译" />
-      <item value="机翻" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670229145211" />
+    <option name="lastTrimTime" value="1670834199881" />
   </component>
 </application>
