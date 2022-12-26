@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="关注任务" />
+      <item value="关注" />
+      <item value="任务动态" />
+      <item value="任务" />
       <item value="进行中任务" />
       <item value="进行中" />
       <item value="全部任务" />
@@ -51,15 +55,11 @@
       <item value="域账号" />
       <item value="账号" />
       <item value="解绑" />
-      <item value="总数" />
-      <item value="列" />
-      <item value="差值" />
-      <item value="resizable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="104" />
       </map>
     </option>
   </component>
