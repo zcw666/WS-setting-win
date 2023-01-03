@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="上架" />
       <item value="编辑" />
       <item value="团队" />
       <item value="关注任务" />
@@ -54,7 +55,6 @@
       <item value="匹配元素" />
       <item value="备注" />
       <item value="变调" />
-      <item value="域账号" />
     </histories>
     <option name="languageScores">
       <map>
