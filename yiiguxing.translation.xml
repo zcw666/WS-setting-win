@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="比例" />
       <item value="规则" />
       <item value="编辑" />
       <item value="上架" />
@@ -34,7 +35,6 @@
       <item value="取消收藏" />
       <item value="voice" />
       <item value="scale" />
-      <item value="比例" />
       <item value="proportion" />
       <item value="进度条" />
       <item value="进度" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="112" />
       </map>
     </option>
   </component>
