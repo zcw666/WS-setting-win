@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="校验" />
+      <item value="验证" />
       <item value="批次" />
       <item value="比例" />
       <item value="规则" />
@@ -53,13 +55,11 @@
       <item value="theme" />
       <item value="coordinates" />
       <item value="match" />
-      <item value="dictionary" />
-      <item value="当前" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="115" />
       </map>
     </option>
   </component>
