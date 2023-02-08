@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="分值占比" />
+      <item value="相同分值占比" />
       <item value="详情" />
       <item value="属性" />
       <item value="序号" />
@@ -53,17 +55,15 @@
       <item value="进度条" />
       <item value="进度" />
       <item value="refresh" />
-      <item value="中文字符" />
-      <item value="标签" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="128" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1675154447744" />
+    <option name="lastTrimTime" value="1675838679635" />
   </component>
 </application>
