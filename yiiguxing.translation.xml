@@ -5,11 +5,11 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="序号" />
       <item value="分值占比" />
       <item value="相同分值占比" />
       <item value="详情" />
       <item value="属性" />
-      <item value="序号" />
       <item value="一级" />
       <item value="列" />
       <item value="规整层" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="129" />
       </map>
     </option>
   </component>
