@@ -5,10 +5,12 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="历史模板" />
+      <item value="放弃" />
+      <item value="任务列表" />
       <item value="上一条" />
       <item value="刷新" />
       <item value="合并" />
-      <item value="放弃" />
       <item value="标注" />
       <item value="序号" />
       <item value="分值占比" />
@@ -53,13 +55,11 @@
       <item value="字数" />
       <item value="收藏时间" />
       <item value="描述" />
-      <item value="取消收藏" />
-      <item value="voice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="137" />
       </map>
     </option>
   </component>
