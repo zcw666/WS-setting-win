@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="去重" />
       <item value="取消" />
       <item value="历史模板" />
       <item value="放弃" />
@@ -54,7 +55,6 @@
       <item value="选中" />
       <item value="字数" />
       <item value="收藏时间" />
-      <item value="描述" />
     </histories>
     <option name="languageScores">
       <map>
