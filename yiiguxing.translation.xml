@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="exposed util methods. NOTE: these are not considered part of the public API - avoid relying on them unless you are aware of the risk." />
+      <item value="them unless you are aware of the risk" />
       <item value="Runtime+compiler ES modules build (for bundlers)" />
       <item value="音量" />
       <item value="重复校验" />
@@ -53,13 +55,11 @@
       <item value="任务" />
       <item value="进行中任务" />
       <item value="进行中" />
-      <item value="全部任务" />
-      <item value="任务查询" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
       </map>
     </option>
   </component>
