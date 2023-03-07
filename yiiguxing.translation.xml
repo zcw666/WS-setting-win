@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="resolve provide after dataprops" />
+      <item value="call" />
+      <item value="cycle" />
+      <item value="istanbul ignore else" />
+      <item value="Vue is a constructor and should be called with the `new` keyword" />
+      <item value="a flag to avoid this being observed" />
       <item value="exposed util methods. NOTE: these are not considered part of the public API - avoid relying on them unless you are aware of the risk." />
       <item value="them unless you are aware of the risk" />
       <item value="Runtime+compiler ES modules build (for bundlers)" />
@@ -49,17 +55,11 @@
       <item value="instance" />
       <item value="试题数量" />
       <item value="团队" />
-      <item value="关注任务" />
-      <item value="关注" />
-      <item value="任务动态" />
-      <item value="任务" />
-      <item value="进行中任务" />
-      <item value="进行中" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
       </map>
     </option>
   </component>
