@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="normalization is always applied for the public version, used in user-written render functions" />
+      <item value="internal version is used by render functions compiled from templates" />
+      <item value="install runtime convenience helpers" />
       <item value="the placeholder node in parent tree" />
       <item value="resolve templateel and convert to render function" />
       <item value="hydrating" />
@@ -52,14 +55,11 @@
       <item value="验证" />
       <item value="批次" />
       <item value="比例" />
-      <item value="规则" />
-      <item value="编辑" />
-      <item value="上架" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
       </map>
     </option>
   </component>
