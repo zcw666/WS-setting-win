@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the placeholder node in parent tree" />
       <item value="resolve templateel and convert to render function" />
       <item value="hydrating" />
       <item value="Query an element selector if it's not an element already" />
@@ -54,12 +55,11 @@
       <item value="规则" />
       <item value="编辑" />
       <item value="上架" />
-      <item value="类型" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
       </map>
     </option>
   </component>
