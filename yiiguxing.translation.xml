@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="结束会话" />
       <item value="建议" />
       <item value="示例" />
       <item value="主题" />
@@ -29,7 +30,6 @@
       <item value="音量" />
       <item value="重复校验" />
       <item value="重试" />
-      <item value="结束会话" />
       <item value="会话" />
       <item value="清空会话" />
       <item value="授权" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="170" />
       </map>
     </option>
   </component>
