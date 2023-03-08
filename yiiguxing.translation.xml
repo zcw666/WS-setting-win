@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="主题" />
       <item value="示例" />
       <item value="场景" />
       <item value="normalization is always applied for the public version, used in user-written render functions" />
@@ -54,12 +55,11 @@
       <item value="评分" />
       <item value="工具栏切换" />
       <item value="校验" />
-      <item value="验证" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="166" />
       </map>
     </option>
   </component>
