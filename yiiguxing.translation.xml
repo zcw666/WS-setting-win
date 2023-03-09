@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="support single function children as default scoped slot" />
+      <item value="Avoid using non-primitive value as key" />
+      <item value="in case of component :is set to falsy value" />
+      <item value="object syntax in v-bind" />
+      <item value="Always create fresh vnode data objects in each render" />
+      <item value="Avoid using observed data object as vnode data" />
+      <item value="wrapper function for providing a more flexible interface without getting yelled at by flow" />
       <item value="Empty" />
       <item value="Primitive" />
       <item value="结束会话" />
@@ -48,18 +55,11 @@
       <item value="序号" />
       <item value="分值占比" />
       <item value="相同分值占比" />
-      <item value="详情" />
-      <item value="属性" />
-      <item value="一级" />
-      <item value="列" />
-      <item value="规整层" />
-      <item value="规整" />
-      <item value="语篇规整" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
       </map>
     </option>
   </component>
