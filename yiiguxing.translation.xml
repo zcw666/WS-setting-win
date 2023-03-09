@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Empty" />
+      <item value="Primitive" />
       <item value="结束会话" />
       <item value="建议" />
       <item value="示例" />
@@ -53,13 +55,11 @@
       <item value="规整层" />
       <item value="规整" />
       <item value="语篇规整" />
-      <item value="评分" />
-      <item value="工具栏切换" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
       </map>
     </option>
   </component>
