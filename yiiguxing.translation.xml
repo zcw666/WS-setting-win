@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="选择主题" />
       <item value="support single function children as default scoped slot" />
       <item value="Avoid using non-primitive value as key" />
       <item value="in case of component :is set to falsy value" />
@@ -54,11 +55,10 @@
       <item value="标注" />
       <item value="序号" />
       <item value="分值占比" />
-      <item value="相同分值占比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
+        <entry key="CHINESE" value="179" />
         <entry key="ENGLISH" value="179" />
       </map>
     </option>
