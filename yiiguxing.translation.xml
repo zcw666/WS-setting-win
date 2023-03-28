@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="检查" />
       <item value="默认" />
       <item value="配置权限" />
       <item value="导入用户" />
@@ -54,7 +55,6 @@
       <item value="授权" />
       <item value="权限" />
       <item value="去重" />
-      <item value="取消" />
     </histories>
     <option name="languageScores">
       <map>
