@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Initialise the backend, called in `wavesurfer.createBackend()" />
       <item value="对话列表" />
       <item value="关闭必选" />
       <item value="回复" />
@@ -54,16 +55,15 @@
       <item value="音量" />
       <item value="重复校验" />
       <item value="重试" />
-      <item value="会话" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="ENGLISH" value="193" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1681125701506" />
+    <option name="lastTrimTime" value="1683338168981" />
   </component>
 </application>
