@@ -5,6 +5,15 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Copies data from one set to another." />
+      <item value="The delimiters regex source string to conver to a regular expression" />
+      <item value="var replaced = delimiters.replace(str, ['&lt;%=', '%&gt;']);" />
+      <item value="Replace or delimiters in the given string" />
+      <item value="Only add the route if we recognise the verb" />
+      <item value="Add a new route entry that's been parsed." />
+      <item value="Computes the minimum value of an array ignoring any non-numeric values." />
+      <item value="Computes the minimum value of an array ignoring any non-numeric values" />
+      <item value="Accept all kind of type and return only Number or Position" />
       <item value="Get the bbox of a tile" />
       <item value="Check the child element in tempalte v-for about `v-bind:key` attributes" />
       <item value="Check the child element in tempalte v-for about `v-bind:key` attributes. @param {RuleContext} context The rule context to report. @param {ASTNode} vFor The attribute node of `v-for` to check. @param {ASTNode} child The child node to check." />
@@ -46,20 +55,11 @@
       <item value="wrapper function for providing a more flexible interface without getting yelled at by flow" />
       <item value="Empty" />
       <item value="Primitive" />
-      <item value="结束会话" />
-      <item value="建议" />
-      <item value="主题" />
-      <item value="场景" />
-      <item value="normalization is always applied for the public version, used in user-written render functions" />
-      <item value="internal version is used by render functions compiled from templates" />
-      <item value="install runtime convenience helpers" />
-      <item value="the placeholder node in parent tree" />
-      <item value="resolve templateel and convert to render function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
       </map>
     </option>
   </component>
