@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Decode a list of floating point numbers from an encoded string" />
+      <item value="Request (via event) for a module update, if no event handler is present, the request is always rejected" />
+      <item value="Stops event observing for a particular event handler" />
+      <item value="A function that sets the authorization in the storage and therefore in the header as basic auth, the credentials are inserted in the init config" />
+      <item value="Open Layers.Renderer.Canvas" />
+      <item value="Optional properties to be set on the renderer" />
+      <item value="Constructor: OpenLayers.Renderer.Canvas" />
       <item value="Copies data from one set to another." />
       <item value="The delimiters regex source string to conver to a regular expression" />
       <item value="var replaced = delimiters.replace(str, ['&lt;%=', '%&gt;']);" />
@@ -48,18 +55,11 @@
       <item value="选择主题" />
       <item value="support single function children as default scoped slot" />
       <item value="Avoid using non-primitive value as key" />
-      <item value="in case of component :is set to falsy value" />
-      <item value="object syntax in v-bind" />
-      <item value="Always create fresh vnode data objects in each render" />
-      <item value="Avoid using observed data object as vnode data" />
-      <item value="wrapper function for providing a more flexible interface without getting yelled at by flow" />
-      <item value="Empty" />
-      <item value="Primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
       </map>
     </option>
   </component>
