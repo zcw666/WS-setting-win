@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="回复" />
       <item value="Decode a list of floating point numbers from an encoded string" />
       <item value="Request (via event) for a module update, if no event handler is present, the request is always rejected" />
       <item value="Stops event observing for a particular event handler" />
@@ -39,7 +40,6 @@
       <item value="Initialise the backend, called in `wavesurfer.createBackend()" />
       <item value="对话列表" />
       <item value="关闭必选" />
-      <item value="回复" />
       <item value="distribution" />
       <item value="检查" />
       <item value="默认" />
@@ -58,7 +58,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="225" />
+        <entry key="CHINESE" value="226" />
         <entry key="ENGLISH" value="226" />
       </map>
     </option>
