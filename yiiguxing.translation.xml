@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="设计" />
       <item value="回复" />
       <item value="Decode a list of floating point numbers from an encoded string" />
       <item value="Request (via event) for a module update, if no event handler is present, the request is always rejected" />
@@ -54,7 +55,6 @@
       <item value="对话场景" />
       <item value="选择主题" />
       <item value="support single function children as default scoped slot" />
-      <item value="Avoid using non-primitive value as key" />
     </histories>
     <option name="languageScores">
       <map>
