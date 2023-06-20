@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="对话" />
       <item value="第一行标签" />
       <item value="任务分类" />
       <item value="设计" />
@@ -54,7 +55,6 @@
       <item value="示例" />
       <item value="作文" />
       <item value="条件" />
-      <item value="对话场景" />
     </histories>
     <option name="languageScores">
       <map>
