@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="修改原因" />
+      <item value="cascader" />
       <item value="下载" />
       <item value="暂存记录" />
       <item value="对话" />
@@ -53,13 +55,11 @@
       <item value="导入用户" />
       <item value="原数据" />
       <item value="随机抽取主题" />
-      <item value="提交会话" />
-      <item value="示例" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="231" />
       </map>
     </option>
   </component>
