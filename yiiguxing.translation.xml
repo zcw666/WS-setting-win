@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="对比" />
       <item value="搜索" />
       <item value="末级" />
       <item value="原因" />
@@ -54,12 +55,11 @@
       <item value="create the new polygon" />
       <item value="feature" />
       <item value="Start drawing a new feature" />
-      <item value="Initialise the backend, called in `wavesurfer.createBackend()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="241" />
       </map>
     </option>
   </component>
