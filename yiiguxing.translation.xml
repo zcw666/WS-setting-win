@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="一级" />
       <item value="对比" />
       <item value="搜索" />
       <item value="末级" />
@@ -54,12 +55,11 @@
       <item value="`before()` is run before executing any of the `targets` defined below. This is where we can validate user input, configure default scope variables, get extra dependencies, and so on." />
       <item value="create the new polygon" />
       <item value="feature" />
-      <item value="Start drawing a new feature" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="242" />
       </map>
     </option>
   </component>
