@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="版本列表" />
       <item value="变更记录" />
       <item value="一级" />
       <item value="对比" />
@@ -54,7 +55,6 @@
       <item value="Setup callback with optional this-pointer." />
       <item value="This is where we can validate user input, configure default scope variables, get extra dependencies, and so on." />
       <item value="`before()` is run before executing any of the `targets` defined below. This is where we can validate user input, configure default scope variables, get extra dependencies, and so on." />
-      <item value="create the new polygon" />
     </histories>
     <option name="languageScores">
       <map>
