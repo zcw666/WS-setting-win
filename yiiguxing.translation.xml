@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="草稿" />
+      <item value="草稿提交" />
       <item value="放弃提交" />
       <item value="提交" />
       <item value="版本列表" />
@@ -53,13 +55,11 @@
       <item value="Method: moveLayerToTop Moves the layer for this handler to the top, so mouse events can reach" />
       <item value="create a new session and return the jwt" />
       <item value="Remove a reference from the inverted index. (Decrease refCount by one. Remove the entry if refCount reached zero)" />
-      <item value="Setup callback with optional this-pointer" />
-      <item value="Setup callback with optional this-pointer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="247" />
       </map>
     </option>
   </component>
