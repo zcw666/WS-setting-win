@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="预览" />
       <item value="problem" />
       <item value="问题" />
       <item value="contrast" />
@@ -54,12 +55,11 @@
       <item value="Check the child element in tempalte v-for about `v-bind:key` attributes" />
       <item value="Check the child element in tempalte v-for about `v-bind:key` attributes. @param {RuleContext} context The rule context to report. @param {ASTNode} vFor The attribute node of `v-for` to check. @param {ASTNode} child The child node to check." />
       <item value="If you are implementing an object that supports `Ember.Array`, call this method just before the array content changes to notify any observers and invalidate any related properties. Pass the starting index of the change as well as a delta of the amounts to change." />
-      <item value="Method: moveLayerToTop Moves the layer for this handler to the top, so mouse events can reach it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="CHINESE" value="250" />
+        <entry key="ENGLISH" value="250" />
       </map>
     </option>
   </component>
