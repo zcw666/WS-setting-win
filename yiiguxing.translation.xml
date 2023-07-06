@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="problem" />
+      <item value="问题" />
       <item value="contrast" />
       <item value="草稿" />
       <item value="草稿提交" />
@@ -53,17 +55,15 @@
       <item value="Check the child element in tempalte v-for about `v-bind:key` attributes. @param {RuleContext} context The rule context to report. @param {ASTNode} vFor The attribute node of `v-for` to check. @param {ASTNode} child The child node to check." />
       <item value="If you are implementing an object that supports `Ember.Array`, call this method just before the array content changes to notify any observers and invalidate any related properties. Pass the starting index of the change as well as a delta of the amounts to change." />
       <item value="Method: moveLayerToTop Moves the layer for this handler to the top, so mouse events can reach it." />
-      <item value="Method: moveLayerToTop Moves the layer for this handler to the top, so mouse events can reach" />
-      <item value="create a new session and return the jwt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="249" />
+        <entry key="ENGLISH" value="249" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1687932500852" />
+    <option name="lastTrimTime" value="1688631520036" />
   </component>
 </application>
