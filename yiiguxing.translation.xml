@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="重置" />
+      <item value="会话" />
       <item value="数据类型" />
       <item value="深度" />
       <item value="问题" />
@@ -53,13 +55,11 @@
       <item value="Computes the minimum value of an array ignoring any non-numeric values." />
       <item value="Computes the minimum value of an array ignoring any non-numeric values" />
       <item value="Accept all kind of type and return only Number or Position" />
-      <item value="Get the bbox of a tile" />
-      <item value="Check the child element in tempalte v-for about `v-bind:key` attributes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="253" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="255" />
       </map>
     </option>
   </component>
