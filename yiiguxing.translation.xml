@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="数据类型" />
       <item value="深度" />
       <item value="问题" />
       <item value="预览" />
@@ -54,16 +55,15 @@
       <item value="Accept all kind of type and return only Number or Position" />
       <item value="Get the bbox of a tile" />
       <item value="Check the child element in tempalte v-for about `v-bind:key` attributes" />
-      <item value="Check the child element in tempalte v-for about `v-bind:key` attributes. @param {RuleContext} context The rule context to report. @param {ASTNode} vFor The attribute node of `v-for` to check. @param {ASTNode} child The child node to check." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="253" />
+        <entry key="ENGLISH" value="253" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1688631520036" />
+    <option name="lastTrimTime" value="1689080139316" />
   </component>
 </application>
