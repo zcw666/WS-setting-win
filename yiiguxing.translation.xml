@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="距离" />
       <item value="股价" />
       <item value="checking" />
       <item value="检查" />
@@ -54,12 +55,11 @@
       <item value="The delimiters regex source string to conver to a regular expression" />
       <item value="var replaced = delimiters.replace(str, ['&lt;%=', '%&gt;']);" />
       <item value="Replace or delimiters in the given string" />
-      <item value="Only add the route if we recognise the verb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="260" />
       </map>
     </option>
   </component>
