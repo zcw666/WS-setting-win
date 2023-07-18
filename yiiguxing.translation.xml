@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="股价" />
       <item value="checking" />
       <item value="检查" />
       <item value="检错" />
@@ -54,16 +55,15 @@
       <item value="var replaced = delimiters.replace(str, ['&lt;%=', '%&gt;']);" />
       <item value="Replace or delimiters in the given string" />
       <item value="Only add the route if we recognise the verb" />
-      <item value="Add a new route entry that's been parsed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="259" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1689080139316" />
+    <option name="lastTrimTime" value="1689670144904" />
   </component>
 </application>
