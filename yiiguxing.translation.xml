@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="标注" />
+      <item value="标注模式" />
       <item value="邮件内容" />
       <item value="导出" />
       <item value="权限管理" />
@@ -53,13 +55,11 @@
       <item value="Open Layers.Renderer.Canvas" />
       <item value="Optional properties to be set on the renderer" />
       <item value="Constructor: OpenLayers.Renderer.Canvas" />
-      <item value="Copies data from one set to another." />
-      <item value="The delimiters regex source string to conver to a regular expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="265" />
       </map>
     </option>
   </component>
