@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="媒体类型" />
       <item value="取消改写" />
       <item value="标注" />
       <item value="标注模式" />
@@ -54,16 +55,15 @@
       <item value="Stops event observing for a particular event handler" />
       <item value="A function that sets the authorization in the storage and therefore in the header as basic auth, the credentials are inserted in the init config" />
       <item value="Open Layers.Renderer.Canvas" />
-      <item value="Optional properties to be set on the renderer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="266" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="267" />
+        <entry key="ENGLISH" value="267" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1690448060470" />
+    <option name="lastTrimTime" value="1691204310769" />
   </component>
 </application>
