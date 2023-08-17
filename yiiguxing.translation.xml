@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="方形" />
+      <item value="level" />
+      <item value="级" />
+      <item value="explanation" />
+      <item value="说明" />
+      <item value="比例" />
+      <item value="占比" />
+      <item value="statistical data" />
+      <item value="统计数据" />
       <item value="会话组" />
       <item value="cascader" />
       <item value="媒体类型" />
@@ -46,20 +55,11 @@
       <item value="修改原因" />
       <item value="下载" />
       <item value="暂存记录" />
-      <item value="对话" />
-      <item value="第一行标签" />
-      <item value="任务分类" />
-      <item value="设计" />
-      <item value="回复" />
-      <item value="Decode a list of floating point numbers from an encoded string" />
-      <item value="Request (via event) for a module update, if no event handler is present, the request is always rejected" />
-      <item value="Stops event observing for a particular event handler" />
-      <item value="A function that sets the authorization in the storage and therefore in the header as basic auth, the credentials are inserted in the init config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="277" />
+        <entry key="ENGLISH" value="277" />
       </map>
     </option>
   </component>
