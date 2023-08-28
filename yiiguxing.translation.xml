@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="考勤与日报" />
       <item value="修改类型" />
       <item value="对比" />
       <item value="柱状图" />
@@ -54,16 +55,15 @@
       <item value="一级" />
       <item value="搜索" />
       <item value="末级" />
-      <item value="原因" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="284" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="285" />
+        <entry key="ENGLISH" value="285" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1692585635757" />
+    <option name="lastTrimTime" value="1693202165934" />
   </component>
 </application>
