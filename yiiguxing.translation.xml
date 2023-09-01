@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="组织" />
+      <item value="三级" />
+      <item value="四级组织" />
+      <item value="三级组织" />
+      <item value="部门" />
+      <item value="账号" />
       <item value="直辖市" />
       <item value="考勤与日报" />
       <item value="修改类型" />
@@ -49,17 +55,11 @@
       <item value="contrast" />
       <item value="草稿" />
       <item value="草稿提交" />
-      <item value="放弃提交" />
-      <item value="提交" />
-      <item value="版本列表" />
-      <item value="变更记录" />
-      <item value="一级" />
-      <item value="搜索" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="286" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="293" />
       </map>
     </option>
   </component>
