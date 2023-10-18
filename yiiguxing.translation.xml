@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="开始加载" />
       <item value="判断" />
       <item value="未标注" />
       <item value="切换模式" />
@@ -54,12 +55,11 @@
       <item value="标注" />
       <item value="标注模式" />
       <item value="邮件内容" />
-      <item value="导出" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="CHINESE" value="311" />
+        <entry key="ENGLISH" value="311" />
       </map>
     </option>
   </component>
