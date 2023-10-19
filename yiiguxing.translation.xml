@@ -5,12 +5,14 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="判断" />
+      <item value="校验" />
+      <item value="批量保存校验" />
       <item value="批量保存" />
       <item value="批量" />
       <item value="批量打标签" />
       <item value="选中区间" />
       <item value="开始加载" />
-      <item value="判断" />
       <item value="未标注" />
       <item value="切换模式" />
       <item value="继续上传" />
@@ -53,13 +55,11 @@
       <item value="统计数据" />
       <item value="会话组" />
       <item value="cascader" />
-      <item value="媒体类型" />
-      <item value="取消改写" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="318" />
       </map>
     </option>
   </component>
