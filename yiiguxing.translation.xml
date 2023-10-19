@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="切换模式" />
       <item value="判断" />
       <item value="校验" />
       <item value="批量保存校验" />
@@ -14,7 +15,6 @@
       <item value="选中区间" />
       <item value="开始加载" />
       <item value="未标注" />
-      <item value="切换模式" />
       <item value="继续上传" />
       <item value="补充说明" />
       <item value="补充" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="319" />
       </map>
     </option>
   </component>
