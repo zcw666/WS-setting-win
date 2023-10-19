@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="批量保存" />
       <item value="批量" />
       <item value="批量打标签" />
       <item value="选中区间" />
@@ -54,12 +55,11 @@
       <item value="cascader" />
       <item value="媒体类型" />
       <item value="取消改写" />
-      <item value="标注" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="315" />
       </map>
     </option>
   </component>
