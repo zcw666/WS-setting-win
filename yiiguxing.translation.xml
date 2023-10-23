@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="重新筛选" />
       <item value="切换模式" />
       <item value="判断" />
       <item value="校验" />
@@ -54,7 +55,6 @@
       <item value="statistical data" />
       <item value="统计数据" />
       <item value="会话组" />
-      <item value="cascader" />
     </histories>
     <option name="languageScores">
       <map>
