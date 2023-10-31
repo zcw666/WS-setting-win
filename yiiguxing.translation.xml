@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="stamp" />
       <item value="校验" />
       <item value="对话续写" />
       <item value="续写" />
@@ -54,12 +55,11 @@
       <item value="explanation" />
       <item value="方形" />
       <item value="level" />
-      <item value="级" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="327" />
       </map>
     </option>
   </component>
