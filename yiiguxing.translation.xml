@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="完整" />
       <item value="multigroup" />
       <item value="对比" />
       <item value="改写" />
@@ -54,7 +55,6 @@
       <item value="账号" />
       <item value="直辖市" />
       <item value="考勤与日报" />
-      <item value="修改类型" />
     </histories>
     <option name="languageScores">
       <map>
