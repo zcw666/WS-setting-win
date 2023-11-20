@@ -1,13 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="数学公式" />
+      <item value="contradistinction" />
+      <item value="对比" />
+      <item value="校验" />
       <item value="完整" />
       <item value="multigroup" />
-      <item value="对比" />
       <item value="改写" />
       <item value="会话" />
       <item value="对话" />
@@ -20,7 +23,6 @@
       <item value="续写" />
       <item value="会话历史" />
       <item value="stamp" />
-      <item value="校验" />
       <item value="对话续写" />
       <item value="删除" />
       <item value="original" />
@@ -53,17 +55,15 @@
       <item value="三级组织" />
       <item value="部门" />
       <item value="账号" />
-      <item value="直辖市" />
-      <item value="考勤与日报" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="346" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1699408811644" />
+    <option name="lastTrimTime" value="1700479049118" />
   </component>
 </application>
