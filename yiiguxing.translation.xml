@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="分类器" />
       <item value="对话" />
       <item value="坏数据" />
       <item value="在线对话" />
@@ -54,12 +55,11 @@
       <item value="Value cannot be null for key:" />
       <item value="Value cannot be null in array:" />
       <item value="组织" />
-      <item value="三级" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="353" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="354" />
+        <entry key="ENGLISH" value="354" />
       </map>
     </option>
   </component>
