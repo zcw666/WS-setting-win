@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="校验" />
       <item value="原始数据" />
       <item value="分类器" />
       <item value="对话" />
@@ -16,7 +17,6 @@
       <item value="数学公式" />
       <item value="contradistinction" />
       <item value="对比" />
-      <item value="校验" />
       <item value="完整" />
       <item value="multigroup" />
       <item value="改写" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="356" />
       </map>
     </option>
   </component>
