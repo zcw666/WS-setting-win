@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="circulation" />
       <item value="source" />
       <item value="重复" />
       <item value="流转" />
@@ -54,7 +55,6 @@
       <item value="开始加载" />
       <item value="未标注" />
       <item value="继续上传" />
-      <item value="补充说明" />
     </histories>
     <option name="languageScores">
       <map>
