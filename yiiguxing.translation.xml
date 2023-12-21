@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="277" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="repeatable" />
       <item value="circulation" />
       <item value="source" />
       <item value="重复" />
@@ -54,12 +55,11 @@
       <item value="选中区间" />
       <item value="开始加载" />
       <item value="未标注" />
-      <item value="继续上传" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
       </map>
     </option>
   </component>
