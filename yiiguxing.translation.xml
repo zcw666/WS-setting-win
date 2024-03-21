@@ -70,14 +70,20 @@
     <option name="lastTrimTime" value="1711018805488" />
   </component>
   <component name="Translation.States">
+    <option name="translationDialogHeight" value="260" />
+    <option name="translationDialogLocationX" value="538" />
+    <option name="translationDialogLocationY" value="301" />
+    <option name="translationDialogWidth" value="598" />
     <histories>
+      <item value="添加性别" />
+      <item value="reactive" />
       <item value="减" />
       <item value="no Mark" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
