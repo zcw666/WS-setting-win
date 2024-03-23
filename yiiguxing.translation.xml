@@ -69,11 +69,20 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1711018805488" />
   </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20240323002002140" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="BAIDU" />
+  </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="538" />
     <option name="translationDialogLocationY" value="301" />
-    <option name="translationDialogWidth" value="598" />
+    <option name="translationDialogWidth" value="596" />
     <histories>
       <item value="当前" />
       <item value="添加性别" />
