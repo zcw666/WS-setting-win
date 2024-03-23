@@ -76,14 +76,14 @@
       </app-key>
     </option>
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="538" />
     <option name="translationDialogLocationY" value="301" />
-    <option name="translationDialogWidth" value="596" />
+    <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="content" />
       <item value="当前" />
       <item value="添加性别" />
       <item value="reactive" />
@@ -93,7 +93,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
