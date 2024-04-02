@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="指令" />
       <item value="对话" />
       <item value="源数据" />
       <item value="图钉" />
@@ -99,7 +100,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
