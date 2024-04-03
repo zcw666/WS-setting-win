@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="search" />
       <item value="拼接" />
       <item value="必填" />
       <item value="默认" />
@@ -104,7 +105,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
