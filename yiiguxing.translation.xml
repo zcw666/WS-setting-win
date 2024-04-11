@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="执行取消" />
       <item value="文本填色" />
       <item value="预览" />
       <item value="search" />
