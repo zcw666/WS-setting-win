@@ -48,6 +48,13 @@
             </list>
           </value>
         </entry>
+        <entry key="ainote-fe-duolunyuliao|1318381261955105">
+          <value>
+            <list>
+              <option value="vue2的p标签使用v-html指令渲染文本，换行符不换行" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
