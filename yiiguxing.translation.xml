@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="to String" />
       <item value="对比" />
       <item value="答案对比" />
       <item value="备注" />
@@ -118,7 +119,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
