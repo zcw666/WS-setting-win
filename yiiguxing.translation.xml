@@ -67,7 +67,7 @@
     <option name="lastTrimTime" value="1702891083461" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1714374213796" />
+    <option name="lastTrimTime" value="1715171484997" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="fence" />
       <item value="上一" />
       <item value="下一帧" />
       <item value="上一帧" />
@@ -123,7 +124,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
