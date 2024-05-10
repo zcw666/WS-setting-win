@@ -83,6 +83,11 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="处理" />
+      <item value="获取处理结果" />
+      <item value="结果处理" />
+      <item value="Process" />
+      <item value="处理结果" />
       <item value="line begin offsets for fast jumps" />
       <item value="Horizontal rule" />
       <item value="which can be terminated by this one." />
@@ -126,8 +131,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="36" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
