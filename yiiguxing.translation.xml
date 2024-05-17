@@ -83,8 +83,8 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
-      <item value="effective" />
       <item value="备注" />
+      <item value="effective" />
       <item value="句对" />
       <item value="genera" />
       <item value="generat" />
@@ -136,7 +136,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
+        <entry key="CHINESE" value="45" />
         <entry key="ENGLISH" value="45" />
         <entry key="JAPANESE" value="2" />
       </map>
