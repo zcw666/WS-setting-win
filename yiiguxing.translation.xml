@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="Angle" />
       <item value="重新生成" />
       <item value="备注" />
       <item value="effective" />
@@ -132,7 +133,6 @@
       <item value="高亮" />
       <item value="标准答案" />
       <item value="勋章" />
-      <item value="content" />
     </histories>
     <option name="languageScores">
       <map>
