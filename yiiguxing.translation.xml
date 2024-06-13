@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="脚本列表" />
       <item value="查找" />
       <item value="查询" />
       <item value="转换" />
@@ -132,13 +133,12 @@
       <item value="directive" />
       <item value="标点" />
       <item value="标点符号" />
-      <item value="监听敏感词" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
