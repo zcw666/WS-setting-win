@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="版本" />
       <item value="模板" />
       <item value="接口" />
       <item value="directions" />
@@ -132,7 +133,6 @@
       <item value="下一帧" />
       <item value="上一帧" />
       <item value="duration" />
-      <item value="to String" />
     </histories>
     <option name="languageScores">
       <map>
