@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="接口" />
       <item value="directions" />
       <item value="category" />
       <item value="评测批次" />
@@ -132,11 +133,10 @@
       <item value="duration" />
       <item value="to String" />
       <item value="对比" />
-      <item value="答案对比" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
+        <entry key="CHINESE" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ENGLISH" value="68" />
         <entry key="JAPANESE" value="2" />
