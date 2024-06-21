@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="重新获取" />
       <item value="导出" />
       <item value="版本" />
       <item value="模板" />
@@ -132,13 +133,12 @@
       <item value="fence" />
       <item value="上一" />
       <item value="下一帧" />
-      <item value="上一帧" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="JAPANESE" value="2" />
       </map>
     </option>
