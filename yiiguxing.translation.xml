@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="更新" />
       <item value="重置" />
       <item value="执行" />
       <item value="导出" />
@@ -132,14 +133,13 @@
       <item value="Horizontal rule" />
       <item value="which can be terminated by this one." />
       <item value="fence" />
-      <item value="上一" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="74" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="ENGLISH" value="74" />
-        <entry key="JAPANESE" value="2" />
+        <entry key="ENGLISH" value="75" />
+        <entry key="JAPANESE" value="3" />
       </map>
     </option>
   </component>
