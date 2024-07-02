@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="验收" />
       <item value="失败" />
       <item value="进度" />
       <item value="打回日志" />
@@ -132,7 +133,6 @@
       <item value="结果处理" />
       <item value="Process" />
       <item value="处理结果" />
-      <item value="line begin offsets for fast jumps" />
     </histories>
     <option name="languageScores">
       <map>
