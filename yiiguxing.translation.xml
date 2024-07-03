@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="mouse Wheel" />
       <item value="防抖" />
       <item value="验收" />
       <item value="失败" />
@@ -132,7 +133,6 @@
       <item value="处理" />
       <item value="获取处理结果" />
       <item value="结果处理" />
-      <item value="Process" />
     </histories>
     <option name="languageScores">
       <map>
