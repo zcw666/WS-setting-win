@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="更新" />
       <item value="valid" />
       <item value="mouse Wheel" />
       <item value="防抖" />
@@ -90,7 +91,6 @@
       <item value="失败" />
       <item value="进度" />
       <item value="打回日志" />
-      <item value="更新" />
       <item value="重置" />
       <item value="执行" />
       <item value="导出" />
@@ -139,7 +139,7 @@
         <entry key="CHINESE" value="77" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="ENGLISH" value="78" />
-        <entry key="JAPANESE" value="3" />
+        <entry key="JAPANESE" value="4" />
       </map>
     </option>
   </component>
