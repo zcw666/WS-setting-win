@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="筛选" />
       <item value="有效轮数" />
       <item value="更新" />
       <item value="valid" />
@@ -116,7 +117,6 @@
       <item value="词库" />
       <item value="当前" />
       <item value="环节" />
-      <item value="筛选" />
       <item value="对话" />
       <item value="重新渲染" />
       <item value="重新" />
@@ -136,9 +136,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
+        <entry key="CHINESE" value="79" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="ENGLISH" value="79" />
         <entry key="JAPANESE" value="4" />
       </map>
     </option>
