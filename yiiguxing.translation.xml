@@ -67,7 +67,7 @@
     <option name="lastTrimTime" value="1702891083461" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1723443491345" />
+    <option name="lastTrimTime" value="1725429859655" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="数据标注" />
       <item value="对比维度" />
       <item value="高亮" />
       <item value="字数统计" />
@@ -132,7 +133,6 @@
       <item value="句对" />
       <item value="genera" />
       <item value="generat" />
-      <item value="单一" />
     </histories>
     <option name="languageScores">
       <map>
