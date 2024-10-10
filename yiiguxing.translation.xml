@@ -83,6 +83,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="模板" />
       <item value="数据标注" />
       <item value="对比维度" />
       <item value="高亮" />
@@ -105,7 +106,6 @@
       <item value="导出" />
       <item value="重新获取" />
       <item value="版本" />
-      <item value="模板" />
       <item value="接口" />
       <item value="directions" />
       <item value="category" />
