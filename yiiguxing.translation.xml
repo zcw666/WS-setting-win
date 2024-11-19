@@ -83,6 +83,8 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="extract batch list" />
+      <item value="dimension label" />
       <item value="模板" />
       <item value="数据标注" />
       <item value="对比维度" />
@@ -131,8 +133,6 @@
       <item value="备注" />
       <item value="effective" />
       <item value="句对" />
-      <item value="genera" />
-      <item value="generat" />
     </histories>
     <option name="languageScores">
       <map>
