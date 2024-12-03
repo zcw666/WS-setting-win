@@ -84,6 +84,7 @@
     <option name="translationDialogLocationY" value="301" />
     <option name="translationDialogWidth" value="594" />
     <histories>
+      <item value="Compress" />
       <item value="高亮模型" />
       <item value="extracted" />
       <item value="tag list" />
@@ -133,7 +134,6 @@
       <item value="对话" />
       <item value="重新渲染" />
       <item value="重新" />
-      <item value="Angle" />
     </histories>
     <option name="languageScores">
       <map>
